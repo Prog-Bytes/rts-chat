@@ -1,2 +1,2 @@
 # tele-chat
-Realtime Chat Application using React, Node and Socket.io
+Realtime Chat Application using [React](https://reactjs.org) and [Go](https://go.dev).
