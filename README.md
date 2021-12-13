@@ -1,2 +1,2 @@
-# tele-chat
+# RTS-chat
 Realtime Chat Application using [React](https://reactjs.org) and [Go](https://go.dev).
